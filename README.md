@@ -11,4 +11,4 @@ TUT PROGRAMACIÓN - 2° CUATRIMESTRE 2025
 ## Programa Utilizado
 PseInt
 ## Descripción
-Breve descripción del TFI
+Entrega del trabajo final integrador 
